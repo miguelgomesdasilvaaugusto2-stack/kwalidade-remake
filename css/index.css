@@ -109,7 +109,7 @@ html {
     background-color: #9762eb;
     border-radius: 20px;
 
-    transition: transorm 0.5s ease;
+    transition: transform 0.5s ease;
 }
 .catalog__card:hover {
     cursor: pointer;
